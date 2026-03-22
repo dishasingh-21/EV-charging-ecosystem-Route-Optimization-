@@ -17,6 +17,11 @@
     <body>
         <h3 style="text-align: center;"> EV Route Map</h3>
         <div id="map" style="height: 600px;"></div>
+        <div id="infobox" style="position: absolute; top: 50px; right: 50px; background: white; padding: 15px; border-radius: 10px; box-shadow:0 0 10px rgba(0,0,0,0.3); font-size:16px; z-index: 9999;">
+            <b>Route Info</b>
+            <br>
+            Distance: <span id="distance">--</span> km 
+        </div>
         <script src="CoordinateData/data.js"></script>
         <script src="script.js"></script>
     </body>

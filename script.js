@@ -11,6 +11,17 @@ function distance(a,b){
     let dy = a.lon - b.lon;
     return Math.sqrt(dx*dx + dy*dy) * 111;
 }
+function getTotalDistance(route) {
+    let total = 0;
+
+    for (let i = 0; i < route.length - 1; i++) {
+        total += distance(route[i], route[i + 1]);
+    }
+
+    return total;
+}
+let totalDistance = getTotalDistance(route);
+document.getElementById("distance").innerText = totalDistance.toFixed(2);
 async function getCoordinates(place) {
     let res = await fetch(
         `https://nominatim.openstreetmap.org/search?q=${place}&format=json`
