@@ -1734,5 +1734,3176 @@ const stations = [
     "lat": 27.5,
     "lon": 76.7,
     "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.908672,
+    "lon": 75.724047,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.915008,
+    "lon": 75.812049,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.862945,
+    "lon": 75.841566,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.880505,
+    "lon": 75.828925,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.895164,
+    "lon": 75.708638,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.917862,
+    "lon": 75.806857,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.857377,
+    "lon": 75.851324,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.859443,
+    "lon": 75.820341,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.88536,
+    "lon": 75.774178,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.84216,
+    "lon": 75.821562,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.93946,
+    "lon": 75.758469,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.891717,
+    "lon": 75.757898,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.940235,
+    "lon": 75.750567,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.936788,
+    "lon": 75.832989,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.866181,
+    "lon": 75.861098,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.878836,
+    "lon": 75.713933,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.964142,
+    "lon": 75.743103,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.928395,
+    "lon": 75.773908,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.877876,
+    "lon": 75.754713,
+    "isCharging": true
+  },
+  {
+    "town": "Jaipur",
+    "subtown": "Jaipur",
+    "lat": 26.85953,
+    "lon": 75.716426,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.296205,
+    "lon": 73.06764,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.217743,
+    "lon": 73.058547,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.201926,
+    "lon": 72.975337,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.179208,
+    "lon": 73.020775,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.277018,
+    "lon": 73.033677,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.270897,
+    "lon": 73.005059,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.311644,
+    "lon": 73.046418,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.241708,
+    "lon": 72.976332,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.292893,
+    "lon": 73.044992,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.253917,
+    "lon": 73.076845,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.238396,
+    "lon": 72.992457,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.270166,
+    "lon": 72.945816,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.248574,
+    "lon": 72.96988,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.274333,
+    "lon": 73.002772,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.233154,
+    "lon": 73.020066,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.312492,
+    "lon": 73.060442,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.19686,
+    "lon": 72.956138,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.228575,
+    "lon": 72.947571,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.310878,
+    "lon": 73.005938,
+    "isCharging": true
+  },
+  {
+    "town": "Jodhpur",
+    "subtown": "Jodhpur",
+    "lat": 26.209065,
+    "lon": 73.027268,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.52422,
+    "lon": 73.754288,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.514319,
+    "lon": 73.720571,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.632495,
+    "lon": 73.733022,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.633153,
+    "lon": 73.672714,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.555825,
+    "lon": 73.664986,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.514019,
+    "lon": 73.789933,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.604127,
+    "lon": 73.723371,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.605415,
+    "lon": 73.702967,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.582774,
+    "lon": 73.775637,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.5872,
+    "lon": 73.633749,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.517545,
+    "lon": 73.693913,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.601614,
+    "lon": 73.646847,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.536802,
+    "lon": 73.674767,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.561618,
+    "lon": 73.749008,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.604705,
+    "lon": 73.761502,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.533115,
+    "lon": 73.697376,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.535883,
+    "lon": 73.642564,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.570211,
+    "lon": 73.670694,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.518649,
+    "lon": 73.7541,
+    "isCharging": true
+  },
+  {
+    "town": "Udaipur",
+    "subtown": "Udaipur",
+    "lat": 24.575043,
+    "lon": 73.690237,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.217014,
+    "lon": 76.795562,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.257518,
+    "lon": 76.792817,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.19626,
+    "lon": 76.923695,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.232526,
+    "lon": 76.808211,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.191962,
+    "lon": 76.914792,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.156639,
+    "lon": 76.901569,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.163235,
+    "lon": 76.811215,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.224769,
+    "lon": 76.803605,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.17846,
+    "lon": 76.9445,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.220113,
+    "lon": 76.788985,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.258036,
+    "lon": 76.918982,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.224051,
+    "lon": 76.928472,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.255855,
+    "lon": 76.852802,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.160026,
+    "lon": 76.786262,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.242208,
+    "lon": 76.860225,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.227722,
+    "lon": 76.806054,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.229056,
+    "lon": 76.808242,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.245889,
+    "lon": 76.804346,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.285691,
+    "lon": 76.788567,
+    "isCharging": true
+  },
+  {
+    "town": "Kota",
+    "subtown": "Kota",
+    "lat": 25.241594,
+    "lon": 76.882369,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.386735,
+    "lon": 74.575396,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.444103,
+    "lon": 74.678612,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.37191,
+    "lon": 74.676013,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.512218,
+    "lon": 74.584389,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.398984,
+    "lon": 74.576148,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.370566,
+    "lon": 74.586083,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.420864,
+    "lon": 74.685511,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.375663,
+    "lon": 74.604298,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.38911,
+    "lon": 74.578605,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.380003,
+    "lon": 74.70377,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.517375,
+    "lon": 74.591493,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.400326,
+    "lon": 74.716318,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.446215,
+    "lon": 74.668351,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.469421,
+    "lon": 74.603392,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.40814,
+    "lon": 74.602881,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.517716,
+    "lon": 74.614375,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.385198,
+    "lon": 74.693683,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.374555,
+    "lon": 74.66893,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.485743,
+    "lon": 74.592797,
+    "isCharging": true
+  },
+  {
+    "town": "Ajmer",
+    "subtown": "Ajmer",
+    "lat": 26.407877,
+    "lon": 74.621291,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_1",
+    "subtown": "Highway_Corridor",
+    "lat": 26.436629,
+    "lon": 74.635134,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_2",
+    "subtown": "Highway_Corridor",
+    "lat": 24.451794,
+    "lon": 73.814416,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_3",
+    "subtown": "Highway_Corridor",
+    "lat": 25.747863,
+    "lon": 73.329662,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_4",
+    "subtown": "Highway_Corridor",
+    "lat": 26.41483,
+    "lon": 74.50472,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_5",
+    "subtown": "Highway_Corridor",
+    "lat": 24.469396,
+    "lon": 73.635017,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_6",
+    "subtown": "Highway_Corridor",
+    "lat": 25.821523,
+    "lon": 73.271126,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_7",
+    "subtown": "Highway_Corridor",
+    "lat": 24.599692,
+    "lon": 73.595382,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_8",
+    "subtown": "Highway_Corridor",
+    "lat": 27.027426,
+    "lon": 75.60258,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_9",
+    "subtown": "Highway_Corridor",
+    "lat": 26.904573,
+    "lon": 75.725826,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_10",
+    "subtown": "Highway_Corridor",
+    "lat": 26.470442,
+    "lon": 74.74653,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_11",
+    "subtown": "Highway_Corridor",
+    "lat": 25.678405,
+    "lon": 73.244905,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_12",
+    "subtown": "Highway_Corridor",
+    "lat": 26.409028,
+    "lon": 74.713261,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_13",
+    "subtown": "Highway_Corridor",
+    "lat": 25.660541,
+    "lon": 73.300509,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_14",
+    "subtown": "Highway_Corridor",
+    "lat": 26.496613,
+    "lon": 74.71212,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_15",
+    "subtown": "Highway_Corridor",
+    "lat": 26.437795,
+    "lon": 74.726393,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_16",
+    "subtown": "Highway_Corridor",
+    "lat": 25.700278,
+    "lon": 73.298623,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_17",
+    "subtown": "Highway_Corridor",
+    "lat": 24.563849,
+    "lon": 73.673486,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_18",
+    "subtown": "Highway_Corridor",
+    "lat": 26.83246,
+    "lon": 75.80701,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_19",
+    "subtown": "Highway_Corridor",
+    "lat": 26.423241,
+    "lon": 74.634702,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_20",
+    "subtown": "Highway_Corridor",
+    "lat": 24.710209,
+    "lon": 73.57931,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_21",
+    "subtown": "Highway_Corridor",
+    "lat": 26.899202,
+    "lon": 75.730682,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH48_Corridor_22",
+    "subtown": "Highway_Corridor",
+    "lat": 25.600869,
+    "lon": 73.209972,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_1",
+    "subtown": "Highway_Corridor",
+    "lat": 25.259814,
+    "lon": 76.86611,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_2",
+    "subtown": "Highway_Corridor",
+    "lat": 24.917953,
+    "lon": 74.466663,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_3",
+    "subtown": "Highway_Corridor",
+    "lat": 25.240318,
+    "lon": 76.811217,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_4",
+    "subtown": "Highway_Corridor",
+    "lat": 24.880148,
+    "lon": 74.718898,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_5",
+    "subtown": "Highway_Corridor",
+    "lat": 24.626109,
+    "lon": 73.836422,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_6",
+    "subtown": "Highway_Corridor",
+    "lat": 25.323133,
+    "lon": 76.903394,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_7",
+    "subtown": "Highway_Corridor",
+    "lat": 24.960717,
+    "lon": 74.470622,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_8",
+    "subtown": "Highway_Corridor",
+    "lat": 25.013666,
+    "lon": 74.58312,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_9",
+    "subtown": "Highway_Corridor",
+    "lat": 25.000521,
+    "lon": 74.669712,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_10",
+    "subtown": "Highway_Corridor",
+    "lat": 25.025902,
+    "lon": 74.683024,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_11",
+    "subtown": "Highway_Corridor",
+    "lat": 24.855506,
+    "lon": 74.582046,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_12",
+    "subtown": "Highway_Corridor",
+    "lat": 24.827299,
+    "lon": 74.575007,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_13",
+    "subtown": "Highway_Corridor",
+    "lat": 24.671696,
+    "lon": 73.564682,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_14",
+    "subtown": "Highway_Corridor",
+    "lat": 24.688326,
+    "lon": 73.58098,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_15",
+    "subtown": "Highway_Corridor",
+    "lat": 24.514662,
+    "lon": 73.843601,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_16",
+    "subtown": "Highway_Corridor",
+    "lat": 24.569603,
+    "lon": 73.664535,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_17",
+    "subtown": "Highway_Corridor",
+    "lat": 25.176854,
+    "lon": 76.677298,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_18",
+    "subtown": "Highway_Corridor",
+    "lat": 25.084066,
+    "lon": 76.731202,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_19",
+    "subtown": "Highway_Corridor",
+    "lat": 25.264813,
+    "lon": 76.781113,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_20",
+    "subtown": "Highway_Corridor",
+    "lat": 25.129245,
+    "lon": 76.710539,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_21",
+    "subtown": "Highway_Corridor",
+    "lat": 25.333276,
+    "lon": 76.836023,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH27_Corridor_22",
+    "subtown": "Highway_Corridor",
+    "lat": 25.013815,
+    "lon": 74.577259,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_1",
+    "subtown": "Highway_Corridor",
+    "lat": 25.636297,
+    "lon": 73.172715,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_2",
+    "subtown": "Highway_Corridor",
+    "lat": 26.150121,
+    "lon": 73.135178,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_3",
+    "subtown": "Highway_Corridor",
+    "lat": 25.779025,
+    "lon": 73.273715,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_4",
+    "subtown": "Highway_Corridor",
+    "lat": 26.09254,
+    "lon": 72.951011,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_5",
+    "subtown": "Highway_Corridor",
+    "lat": 25.552139,
+    "lon": 73.395568,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_6",
+    "subtown": "Highway_Corridor",
+    "lat": 25.692632,
+    "lon": 73.383626,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_7",
+    "subtown": "Highway_Corridor",
+    "lat": 25.554268,
+    "lon": 73.235864,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_8",
+    "subtown": "Highway_Corridor",
+    "lat": 25.680798,
+    "lon": 73.284353,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_9",
+    "subtown": "Highway_Corridor",
+    "lat": 25.245736,
+    "lon": 72.734617,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_10",
+    "subtown": "Highway_Corridor",
+    "lat": 26.334669,
+    "lon": 72.874377,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_11",
+    "subtown": "Highway_Corridor",
+    "lat": 25.155454,
+    "lon": 72.627316,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_12",
+    "subtown": "Highway_Corridor",
+    "lat": 25.196441,
+    "lon": 72.661877,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_13",
+    "subtown": "Highway_Corridor",
+    "lat": 25.26727,
+    "lon": 72.639104,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_14",
+    "subtown": "Highway_Corridor",
+    "lat": 25.259517,
+    "lon": 72.450373,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_15",
+    "subtown": "Highway_Corridor",
+    "lat": 26.065038,
+    "lon": 72.922838,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_16",
+    "subtown": "Highway_Corridor",
+    "lat": 26.232812,
+    "lon": 73.043267,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_17",
+    "subtown": "Highway_Corridor",
+    "lat": 25.613465,
+    "lon": 73.263688,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_18",
+    "subtown": "Highway_Corridor",
+    "lat": 25.243217,
+    "lon": 72.710885,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_19",
+    "subtown": "Highway_Corridor",
+    "lat": 25.739164,
+    "lon": 73.163198,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_20",
+    "subtown": "Highway_Corridor",
+    "lat": 26.099551,
+    "lon": 72.867001,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_21",
+    "subtown": "Highway_Corridor",
+    "lat": 26.284006,
+    "lon": 73.051037,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH62_Corridor_22",
+    "subtown": "Highway_Corridor",
+    "lat": 26.051349,
+    "lon": 73.028206,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_1",
+    "subtown": "Highway_Corridor",
+    "lat": 27.478048,
+    "lon": 75.183982,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_2",
+    "subtown": "Highway_Corridor",
+    "lat": 27.524919,
+    "lon": 75.060142,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_3",
+    "subtown": "Highway_Corridor",
+    "lat": 27.55222,
+    "lon": 74.971234,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_4",
+    "subtown": "Highway_Corridor",
+    "lat": 27.501442,
+    "lon": 75.106638,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_5",
+    "subtown": "Highway_Corridor",
+    "lat": 26.783773,
+    "lon": 75.683004,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_6",
+    "subtown": "Highway_Corridor",
+    "lat": 26.94771,
+    "lon": 75.79259,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_7",
+    "subtown": "Highway_Corridor",
+    "lat": 27.006474,
+    "lon": 75.69761,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_8",
+    "subtown": "Highway_Corridor",
+    "lat": 27.735926,
+    "lon": 75.086888,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_9",
+    "subtown": "Highway_Corridor",
+    "lat": 27.669038,
+    "lon": 75.059499,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_10",
+    "subtown": "Highway_Corridor",
+    "lat": 26.816376,
+    "lon": 75.860546,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_11",
+    "subtown": "Highway_Corridor",
+    "lat": 26.90469,
+    "lon": 75.936211,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_12",
+    "subtown": "Highway_Corridor",
+    "lat": 27.702731,
+    "lon": 75.097215,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_13",
+    "subtown": "Highway_Corridor",
+    "lat": 26.936459,
+    "lon": 75.916249,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_14",
+    "subtown": "Highway_Corridor",
+    "lat": 27.450107,
+    "lon": 75.059806,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_15",
+    "subtown": "Highway_Corridor",
+    "lat": 28.010545,
+    "lon": 73.341271,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_16",
+    "subtown": "Highway_Corridor",
+    "lat": 27.902816,
+    "lon": 73.292889,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_17",
+    "subtown": "Highway_Corridor",
+    "lat": 27.927028,
+    "lon": 73.289244,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_18",
+    "subtown": "Highway_Corridor",
+    "lat": 27.605743,
+    "lon": 75.199118,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_19",
+    "subtown": "Highway_Corridor",
+    "lat": 27.555841,
+    "lon": 75.24785,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_20",
+    "subtown": "Highway_Corridor",
+    "lat": 26.940238,
+    "lon": 75.87209,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_21",
+    "subtown": "Highway_Corridor",
+    "lat": 27.028479,
+    "lon": 75.852979,
+    "isCharging": true
+  },
+  {
+    "town": "Tata_NH11_Corridor_22",
+    "subtown": "Highway_Corridor",
+    "lat": 28.02682,
+    "lon": 73.395748,
+    "isCharging": true
+  },
+  {
+    "town": "Jaisalmer",
+    "subtown": "Jaisalmer",
+    "lat": 27.003179,
+    "lon": 70.812594,
+    "isCharging": true
+  },
+  {
+    "town": "Jaisalmer",
+    "subtown": "Jaisalmer",
+    "lat": 26.899605,
+    "lon": 70.890524,
+    "isCharging": true
+  },
+  {
+    "town": "Jaisalmer",
+    "subtown": "Jaisalmer",
+    "lat": 26.828529,
+    "lon": 70.873145,
+    "isCharging": true
+  },
+  {
+    "town": "Jaisalmer",
+    "subtown": "Jaisalmer",
+    "lat": 26.994787,
+    "lon": 70.83455,
+    "isCharging": true
+  },
+  {
+    "town": "Jaisalmer",
+    "subtown": "Jaisalmer",
+    "lat": 26.950623,
+    "lon": 70.906188,
+    "isCharging": true
+  },
+  {
+    "town": "Jaisalmer",
+    "subtown": "Jaisalmer",
+    "lat": 26.920275,
+    "lon": 70.862817,
+    "isCharging": true
+  },
+  {
+    "town": "Jaisalmer",
+    "subtown": "Jaisalmer",
+    "lat": 26.833257,
+    "lon": 70.885746,
+    "isCharging": true
+  },
+  {
+    "town": "Bikaner",
+    "subtown": "Bikaner",
+    "lat": 28.10601,
+    "lon": 73.36301,
+    "isCharging": true
+  },
+  {
+    "town": "Bikaner",
+    "subtown": "Bikaner",
+    "lat": 28.023713,
+    "lon": 73.329856,
+    "isCharging": true
+  },
+  {
+    "town": "Bikaner",
+    "subtown": "Bikaner",
+    "lat": 28.116728,
+    "lon": 73.235578,
+    "isCharging": true
+  },
+  {
+    "town": "Bikaner",
+    "subtown": "Bikaner",
+    "lat": 27.956206,
+    "lon": 73.324594,
+    "isCharging": true
+  },
+  {
+    "town": "Bikaner",
+    "subtown": "Bikaner",
+    "lat": 27.932765,
+    "lon": 73.390953,
+    "isCharging": true
+  },
+  {
+    "town": "Bikaner",
+    "subtown": "Bikaner",
+    "lat": 27.959869,
+    "lon": 73.360249,
+    "isCharging": true
+  },
+  {
+    "town": "Bikaner",
+    "subtown": "Bikaner",
+    "lat": 28.009432,
+    "lon": 73.284382,
+    "isCharging": true
+  },
+  {
+    "town": "Chittorgarh",
+    "subtown": "Chittorgarh",
+    "lat": 24.914837,
+    "lon": 74.667511,
+    "isCharging": true
+  },
+  {
+    "town": "Chittorgarh",
+    "subtown": "Chittorgarh",
+    "lat": 24.812078,
+    "lon": 74.614231,
+    "isCharging": true
+  },
+  {
+    "town": "Chittorgarh",
+    "subtown": "Chittorgarh",
+    "lat": 24.941803,
+    "lon": 74.716584,
+    "isCharging": true
+  },
+  {
+    "town": "Chittorgarh",
+    "subtown": "Chittorgarh",
+    "lat": 24.853489,
+    "lon": 74.620299,
+    "isCharging": true
+  },
+  {
+    "town": "Chittorgarh",
+    "subtown": "Chittorgarh",
+    "lat": 24.936818,
+    "lon": 74.688656,
+    "isCharging": true
+  },
+  {
+    "town": "Chittorgarh",
+    "subtown": "Chittorgarh",
+    "lat": 24.799609,
+    "lon": 74.723867,
+    "isCharging": true
+  },
+  {
+    "town": "Chittorgarh",
+    "subtown": "Chittorgarh",
+    "lat": 24.801701,
+    "lon": 74.590052,
+    "isCharging": true
+  },
+  {
+    "town": "Sawai Madhopur",
+    "subtown": "SawaiMadhopur",
+    "lat": 26.021797,
+    "lon": 76.433094,
+    "isCharging": true
+  },
+  {
+    "town": "Sawai Madhopur",
+    "subtown": "SawaiMadhopur",
+    "lat": 26.044441,
+    "lon": 76.340775,
+    "isCharging": true
+  },
+  {
+    "town": "Sawai Madhopur",
+    "subtown": "SawaiMadhopur",
+    "lat": 26.027894,
+    "lon": 76.262494,
+    "isCharging": true
+  },
+  {
+    "town": "Sawai Madhopur",
+    "subtown": "SawaiMadhopur",
+    "lat": 25.991272,
+    "lon": 76.324969,
+    "isCharging": true
+  },
+  {
+    "town": "Sawai Madhopur",
+    "subtown": "SawaiMadhopur",
+    "lat": 25.977347,
+    "lon": 76.267489,
+    "isCharging": true
+  },
+  {
+    "town": "Sawai Madhopur",
+    "subtown": "SawaiMadhopur",
+    "lat": 26.101134,
+    "lon": 76.300123,
+    "isCharging": true
+  },
+  {
+    "town": "Sawai Madhopur",
+    "subtown": "SawaiMadhopur",
+    "lat": 26.097762,
+    "lon": 76.337227,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 23.565927,
+    "lon": 76.834417,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 24.1065,
+    "lon": 71.208907,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 26.424668,
+    "lon": 71.607189,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 26.799429,
+    "lon": 76.705481,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 24.587245,
+    "lon": 72.453585,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 24.172244,
+    "lon": 76.718806,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 25.364825,
+    "lon": 77.878208,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 27.661918,
+    "lon": 74.705784,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 23.815052,
+    "lon": 75.593154,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 27.938405,
+    "lon": 76.074221,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 29.622757,
+    "lon": 73.811692,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 26.282582,
+    "lon": 71.79971,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 24.090921,
+    "lon": 75.759307,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 24.393327,
+    "lon": 71.804387,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 28.398238,
+    "lon": 73.320197,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 28.626038,
+    "lon": 74.188735,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 27.10502,
+    "lon": 70.980008,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 24.330385,
+    "lon": 74.559344,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 26.213073,
+    "lon": 77.656716,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 27.512525,
+    "lon": 76.666773,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 26.773861,
+    "lon": 74.365293,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 26.535503,
+    "lon": 77.365578,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 27.851116,
+    "lon": 73.919084,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 24.421794,
+    "lon": 72.458078,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 27.804405,
+    "lon": 77.008319,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 27.692469,
+    "lon": 71.84759,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 29.354805,
+    "lon": 72.436569,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 25.9636,
+    "lon": 76.992588,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 24.698037,
+    "lon": 70.837779,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 23.849905,
+    "lon": 77.47598,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 28.840793,
+    "lon": 76.621295,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 28.369983,
+    "lon": 75.288523,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 28.873241,
+    "lon": 74.338015,
+    "isCharging": true
+  },
+  {
+    "town": "Tata",
+    "subtown": "Mixed_District",
+    "lat": 23.516583,
+    "lon": 73.143928,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_111",
+    "lat": 24.513828,
+    "lon": 74.886833,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_128",
+    "lat": 26.933186,
+    "lon": 73.437484,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_130",
+    "lat": 25.118457,
+    "lon": 70.677487,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_137",
+    "lat": 23.410964,
+    "lon": 77.208724,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_158",
+    "lat": 30.117639,
+    "lon": 75.523911,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_197",
+    "lat": 24.099848,
+    "lon": 70.403983,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_2",
+    "lat": 25.003784,
+    "lon": 78.097241,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_48",
+    "lat": 24.275593,
+    "lon": 72.283198,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_69",
+    "lat": 23.772241,
+    "lon": 71.950823,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Ajmer_83",
+    "lat": 28.088408,
+    "lon": 78.21105,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_1",
+    "lat": 23.991277,
+    "lon": 78.062843,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_116",
+    "lat": 26.303934,
+    "lon": 71.523506,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_117",
+    "lat": 28.976565,
+    "lon": 75.949012,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_118",
+    "lat": 23.892777,
+    "lon": 71.911807,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_134",
+    "lat": 29.809592,
+    "lon": 71.887828,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_149",
+    "lat": 26.594338,
+    "lon": 72.499766,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_16",
+    "lat": 24.422435,
+    "lon": 76.331075,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_178",
+    "lat": 24.858505,
+    "lon": 76.891152,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_42",
+    "lat": 27.980065,
+    "lon": 74.870004,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_44",
+    "lat": 26.892052,
+    "lon": 72.949607,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_51",
+    "lat": 27.882362,
+    "lon": 73.418854,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_56",
+    "lat": 29.409458,
+    "lon": 77.028116,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_59",
+    "lat": 28.263665,
+    "lon": 73.731977,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_62",
+    "lat": 29.274862,
+    "lon": 70.121265,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_66",
+    "lat": 28.935078,
+    "lon": 72.535691,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_7",
+    "lat": 24.426457,
+    "lon": 75.743336,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_84",
+    "lat": 25.824523,
+    "lon": 69.785076,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_91",
+    "lat": 27.569195,
+    "lon": 69.888704,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Alwar_96",
+    "lat": 26.780503,
+    "lon": 70.297333,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Banswara_129",
+    "lat": 29.723665,
+    "lon": 71.257113,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Banswara_28",
+    "lat": 24.21686,
+    "lon": 72.43047,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Banswara_47",
+    "lat": 25.122203,
+    "lon": 72.157521,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Banswara_70",
+    "lat": 28.639008,
+    "lon": 76.477297,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Baran_25",
+    "lat": 29.822831,
+    "lon": 73.846999,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Baran_67",
+    "lat": 28.664515,
+    "lon": 71.564529,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Barmer_24",
+    "lat": 24.589456,
+    "lon": 77.978298,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Barmer_52",
+    "lat": 30.154261,
+    "lon": 77.36784,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Barmer_79",
+    "lat": 27.06977,
+    "lon": 71.849607,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Barmer_94",
+    "lat": 28.465206,
+    "lon": 77.30223,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Barmer_98",
+    "lat": 25.98925,
+    "lon": 69.606252,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_100",
+    "lat": 25.204779,
+    "lon": 70.68786,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_102",
+    "lat": 28.549011,
+    "lon": 70.968326,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_103",
+    "lat": 26.817948,
+    "lon": 73.095566,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_106",
+    "lat": 28.833748,
+    "lon": 70.965311,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_122",
+    "lat": 29.761967,
+    "lon": 77.612064,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_124",
+    "lat": 29.362194,
+    "lon": 76.733861,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_126",
+    "lat": 26.359607,
+    "lon": 71.551904,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_133",
+    "lat": 27.044601,
+    "lon": 71.142136,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_147",
+    "lat": 27.708496,
+    "lon": 78.021476,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_164",
+    "lat": 29.876677,
+    "lon": 72.491884,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_176",
+    "lat": 24.265357,
+    "lon": 71.9989,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_189",
+    "lat": 30.035274,
+    "lon": 72.2334,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_73",
+    "lat": 24.218786,
+    "lon": 77.242261,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bharatpur_85",
+    "lat": 23.115485,
+    "lon": 77.137951,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bhilwara_101",
+    "lat": 25.505808,
+    "lon": 70.452649,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bhilwara_180",
+    "lat": 28.994937,
+    "lon": 75.12115,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bhilwara_89",
+    "lat": 29.010448,
+    "lon": 73.36341,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_121",
+    "lat": 25.054526,
+    "lon": 76.038392,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_125",
+    "lat": 28.716706,
+    "lon": 77.234662,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_127",
+    "lat": 28.526088,
+    "lon": 72.099144,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_142",
+    "lat": 25.520103,
+    "lon": 70.328788,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_144",
+    "lat": 25.906327,
+    "lon": 75.459821,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_156",
+    "lat": 24.61511,
+    "lon": 71.857734,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_159",
+    "lat": 24.375382,
+    "lon": 71.098388,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_162",
+    "lat": 27.318877,
+    "lon": 70.181557,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_167",
+    "lat": 29.025394,
+    "lon": 71.622368,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_17",
+    "lat": 28.034286,
+    "lon": 73.393963,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_172",
+    "lat": 23.797422,
+    "lon": 73.810829,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_173",
+    "lat": 24.383711,
+    "lon": 75.081525,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_18",
+    "lat": 26.014239,
+    "lon": 75.598159,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_186",
+    "lat": 27.707143,
+    "lon": 76.018626,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_36",
+    "lat": 27.241533,
+    "lon": 71.086279,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_37",
+    "lat": 25.63349,
+    "lon": 70.107597,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_57",
+    "lat": 28.501295,
+    "lon": 72.156754,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bikaner_60",
+    "lat": 28.251614,
+    "lon": 73.59957,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bundi_107",
+    "lat": 23.679161,
+    "lon": 75.51802,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bundi_169",
+    "lat": 28.846467,
+    "lon": 77.575795,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bundi_170",
+    "lat": 23.515414,
+    "lon": 77.952371,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bundi_193",
+    "lat": 25.416198,
+    "lon": 74.762638,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Bundi_50",
+    "lat": 23.831985,
+    "lon": 77.980969,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Chittorgarh_119",
+    "lat": 28.976335,
+    "lon": 76.302737,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Chittorgarh_199",
+    "lat": 29.799067,
+    "lon": 71.615383,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Chittorgarh_200",
+    "lat": 24.834865,
+    "lon": 73.20975,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Chittorgarh_99",
+    "lat": 23.134133,
+    "lon": 73.681434,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Churu_160",
+    "lat": 29.21112,
+    "lon": 72.113026,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Churu_5",
+    "lat": 27.91084,
+    "lon": 70.996108,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Dholpur_150",
+    "lat": 25.942683,
+    "lon": 78.211683,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Dholpur_179",
+    "lat": 26.411837,
+    "lon": 71.506304,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Dholpur_198",
+    "lat": 24.537435,
+    "lon": 75.263785,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Dholpur_34",
+    "lat": 26.148916,
+    "lon": 72.967202,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Dholpur_8",
+    "lat": 23.538894,
+    "lon": 72.696308,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Dungarpur_29",
+    "lat": 26.356383,
+    "lon": 70.441505,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Dungarpur_64",
+    "lat": 23.28414,
+    "lon": 73.025373,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Dungarpur_65",
+    "lat": 26.158347,
+    "lon": 76.740755,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Hanumangarh_141",
+    "lat": 29.213421,
+    "lon": 77.449617,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Hanumangarh_35",
+    "lat": 24.700173,
+    "lon": 76.899151,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Hanumangarh_72",
+    "lat": 29.4695,
+    "lon": 70.86549,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Hanumangarh_87",
+    "lat": 30.135347,
+    "lon": 78.089733,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Hanumangarh_9",
+    "lat": 30.165745,
+    "lon": 72.402511,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_104",
+    "lat": 25.43596,
+    "lon": 71.487565,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_105",
+    "lat": 25.470114,
+    "lon": 70.259447,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_123",
+    "lat": 29.786227,
+    "lon": 75.303531,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_138",
+    "lat": 28.682725,
+    "lon": 73.519931,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_140",
+    "lat": 29.336011,
+    "lon": 76.106645,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_155",
+    "lat": 29.161322,
+    "lon": 73.796632,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_157",
+    "lat": 28.449495,
+    "lon": 76.904366,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_163",
+    "lat": 28.694543,
+    "lon": 69.559746,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_166",
+    "lat": 25.910174,
+    "lon": 71.507283,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_175",
+    "lat": 29.23628,
+    "lon": 76.781416,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_184",
+    "lat": 29.738648,
+    "lon": 72.9346,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_188",
+    "lat": 24.848228,
+    "lon": 75.234388,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_19",
+    "lat": 23.476388,
+    "lon": 73.267259,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_27",
+    "lat": 23.827043,
+    "lon": 71.847327,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_40",
+    "lat": 24.047831,
+    "lon": 70.035208,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_43",
+    "lat": 27.372772,
+    "lon": 73.747349,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_68",
+    "lat": 24.427675,
+    "lon": 74.489556,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaipur_90",
+    "lat": 27.963488,
+    "lon": 72.743962,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaisalmer_109",
+    "lat": 26.111503,
+    "lon": 71.021268,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaisalmer_113",
+    "lat": 30.148315,
+    "lon": 72.148412,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jaisalmer_114",
+    "lat": 23.864766,
+    "lon": 76.690411,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jhalawar_23",
+    "lat": 23.570282,
+    "lon": 77.254387,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jhalawar_32",
+    "lat": 24.146216,
+    "lon": 75.926217,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jhalawar_80",
+    "lat": 24.238676,
+    "lon": 71.419107,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jhunjhunu_11",
+    "lat": 25.033257,
+    "lon": 74.743929,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jhunjhunu_168",
+    "lat": 23.727037,
+    "lon": 73.210195,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jhunjhunu_26",
+    "lat": 26.40491,
+    "lon": 72.601369,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jhunjhunu_39",
+    "lat": 27.993337,
+    "lon": 74.958248,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jhunjhunu_88",
+    "lat": 23.122942,
+    "lon": 71.347954,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_108",
+    "lat": 26.172395,
+    "lon": 70.900566,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_152",
+    "lat": 25.737826,
+    "lon": 74.758232,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_183",
+    "lat": 26.060686,
+    "lon": 74.744397,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_185",
+    "lat": 30.095198,
+    "lon": 76.958875,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_194",
+    "lat": 28.673314,
+    "lon": 74.435782,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_31",
+    "lat": 23.826602,
+    "lon": 74.345891,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_41",
+    "lat": 28.878613,
+    "lon": 70.764117,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_54",
+    "lat": 29.592612,
+    "lon": 77.96897,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_74",
+    "lat": 27.76719,
+    "lon": 75.078485,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_81",
+    "lat": 29.724502,
+    "lon": 75.273276,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Jodhpur_92",
+    "lat": 30.033865,
+    "lon": 76.029997,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Karauli_132",
+    "lat": 29.542787,
+    "lon": 75.542088,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Karauli_177",
+    "lat": 29.035932,
+    "lon": 76.240744,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Karauli_195",
+    "lat": 29.500456,
+    "lon": 75.609339,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Karauli_196",
+    "lat": 29.223595,
+    "lon": 73.055936,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Kota_191",
+    "lat": 27.898404,
+    "lon": 70.688911,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Kota_20",
+    "lat": 26.691193,
+    "lon": 74.803288,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Kota_201",
+    "lat": 23.190996,
+    "lon": 71.700713,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Kota_45",
+    "lat": 28.6973,
+    "lon": 71.160422,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Kota_46",
+    "lat": 28.075213,
+    "lon": 71.609701,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Kota_63",
+    "lat": 29.019077,
+    "lon": 77.003021,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Nagaur_135",
+    "lat": 24.646427,
+    "lon": 74.039144,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Nagaur_171",
+    "lat": 28.179294,
+    "lon": 75.386674,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Nagaur_75",
+    "lat": 29.651887,
+    "lon": 69.873756,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Nagaur_93",
+    "lat": 27.219121,
+    "lon": 74.266726,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Nagaur_95",
+    "lat": 27.498267,
+    "lon": 71.066727,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Pali_58",
+    "lat": 26.819219,
+    "lon": 72.796826,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Pratapgarh_112",
+    "lat": 27.07277,
+    "lon": 73.329309,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Rajsamand_15",
+    "lat": 24.245707,
+    "lon": 70.020793,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Rajsamand_187",
+    "lat": 25.254634,
+    "lon": 72.922247,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Rajsamand_203",
+    "lat": 27.329284,
+    "lon": 74.214354,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sawai Madhopur_145",
+    "lat": 30.082427,
+    "lon": 72.51502,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sawai Madhopur_192",
+    "lat": 30.10933,
+    "lon": 72.57401,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sawai Madhopur_49",
+    "lat": 26.265932,
+    "lon": 74.148647,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_115",
+    "lat": 25.72254,
+    "lon": 72.332577,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_12",
+    "lat": 23.647228,
+    "lon": 75.554176,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_13",
+    "lat": 25.745305,
+    "lon": 73.353874,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_136",
+    "lat": 29.179206,
+    "lon": 71.456443,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_165",
+    "lat": 26.584531,
+    "lon": 74.133717,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_174",
+    "lat": 27.195579,
+    "lon": 69.511088,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_182",
+    "lat": 26.910165,
+    "lon": 71.795727,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_190",
+    "lat": 26.596898,
+    "lon": 75.455448,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_3",
+    "lat": 25.682295,
+    "lon": 74.755109,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_30",
+    "lat": 29.58831,
+    "lon": 71.586222,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_38",
+    "lat": 25.413761,
+    "lon": 74.537143,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_6",
+    "lat": 28.25074,
+    "lon": 76.807305,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_71",
+    "lat": 26.345554,
+    "lon": 77.750218,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_77",
+    "lat": 26.864533,
+    "lon": 75.50487,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_82",
+    "lat": 29.743228,
+    "lon": 74.934139,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sikar_86",
+    "lat": 24.742746,
+    "lon": 73.966336,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sirohi_21",
+    "lat": 25.427345,
+    "lon": 75.478845,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sirohi_76",
+    "lat": 26.846472,
+    "lon": 78.221847,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sirohi_97",
+    "lat": 24.822234,
+    "lon": 73.17171,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sri Ganganagar_151",
+    "lat": 23.795164,
+    "lon": 77.638714,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sri Ganganagar_153",
+    "lat": 23.178502,
+    "lon": 70.397486,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sri Ganganagar_161",
+    "lat": 28.188259,
+    "lon": 78.055734,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sri Ganganagar_181",
+    "lat": 29.511394,
+    "lon": 70.075119,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Sri Ganganagar_61",
+    "lat": 27.521146,
+    "lon": 72.506928,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Tonk_10",
+    "lat": 26.615064,
+    "lon": 77.425817,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Tonk_146",
+    "lat": 28.278255,
+    "lon": 73.366587,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_110",
+    "lat": 23.973848,
+    "lon": 76.451632,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_120",
+    "lat": 29.538748,
+    "lon": 77.456943,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_131",
+    "lat": 23.980392,
+    "lon": 71.165446,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_139",
+    "lat": 26.002756,
+    "lon": 76.340358,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_14",
+    "lat": 23.297709,
+    "lon": 71.964436,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_143",
+    "lat": 28.846422,
+    "lon": 71.107693,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_148",
+    "lat": 25.812334,
+    "lon": 72.787349,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_154",
+    "lat": 23.865431,
+    "lon": 76.445655,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_202",
+    "lat": 24.127875,
+    "lon": 77.469039,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_22",
+    "lat": 30.087881,
+    "lon": 72.373853,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_33",
+    "lat": 25.852008,
+    "lon": 69.97065,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_4",
+    "lat": 29.357892,
+    "lon": 73.41689,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_53",
+    "lat": 24.80753,
+    "lon": 74.811429,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_55",
+    "lat": 25.087507,
+    "lon": 72.319326,
+    "isCharging": true
+  },
+  {
+    "town": "Indian Oil",
+    "subtown": "IndianOil_Udaipur_78",
+    "lat": 26.247311,
+    "lon": 76.39115,
+    "isCharging": true
   }
 ]
