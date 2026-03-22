@@ -78,10 +78,32 @@ async function drawRoute(route) {
         weight: 6
     }).addTo(map);
     map.fitBounds(poly.getBounds());
-    route.forEach(p => {
-        L.marker([p.lat, p.lon])
-         .addTo(map)
-         .bindPopup(p.name || p.subtown || "Point");
+    route.forEach((p,index) => {
+        let isStart = index === 0;
+        let isEnd = index === route.length - 1;
+        let isCharging = p.isCharging;
+        let color = "blue";
+        if (isStart) color = "green";
+        else if (isEnd) color = "red";
+        else if (isCharging) color = "orange";
+        let icon = L.circleMarker([p.lat, p.lon], {
+            radius: 8,
+            color: color,
+            fillColor: color,
+            fillOpacity: 1
+        }).addTo(map);
+        icon.bindPopup(
+            `${p.name || p.subtown || "Point"}`
+        );
+        let label = p.name || p.subtown || p.town || "Point";
+        if (isCharging) {
+            icon.bindTooltip(label, {
+                permanent: true,
+                direction: "top",
+                offset: [0, -10],
+                className: "station-label"
+            });
+        }
     });
 }
 async function init() {
@@ -95,8 +117,12 @@ async function init() {
     let MAX_RANGE = 400 * (batteryPercent / 100);
     let route = aStar(allNodes, 0, allNodes.length - 1, MAX_RANGE);
     if (!route || route.length === 0) {
-        alert("No route found!");
-        return;
+        alert("Precharge to 100%");
+        route = aStar(allNodes, 0, allNodes.length - 1, 400);
+        if (!route || route.length === 0) {
+            alert("No route possible even at 100% battery!");
+            return;
+        }
     }
     drawRoute(route);
     console.log("Loaded stations:", stations);
