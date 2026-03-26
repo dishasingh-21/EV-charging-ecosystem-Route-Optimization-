@@ -139,4 +139,3 @@ async function init() {
 }
 
 init();
-
