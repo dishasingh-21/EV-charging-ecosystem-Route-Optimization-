@@ -71,7 +71,7 @@ async function drawRoute(route) {
         if (data.routes.length > 0) {
             let coords = data.routes[0].geometry.coordinates;
             coords.forEach(c => fullPath.push([c[1], c[0]]));
-        }
+       }
     }
     let poly = L.polyline(fullPath, {
         color: 'black',
