@@ -4907,3 +4907,11 @@ const stations = [
     "isCharging": true
   }
 ]
+
+if (typeof module !== "undefined") {
+    module.exports = stations;
+}
+
+if (typeof window !== "undefined") {
+    window.stations = stations;
+}

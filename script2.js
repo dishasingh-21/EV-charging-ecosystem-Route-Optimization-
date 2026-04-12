@@ -1,7 +1,35 @@
+console.log("SCRIPT LOADED");
+
 const params = new URLSearchParams(window.location.search);
 const start = params.get("start");
 const end = params.get("end");
 const batteryPercent = parseFloat(params.get("battery"));
+
+const DEBUG_VISUAL = true;
+//Debugging and visualisation
+let debug_layers=[];
+
+function sleep(ms){
+    return new Promise(res=>setTimeout(res,ms));
+}
+
+function clear_layer(){
+    debug_layers.forEach(layer => map.removeLayer(layer));
+    debug_layers = [];
+}
+
+function drawDebugEdge(a,b,color){
+    if(!DEBUG_VISUAL) return;
+    let line = L.polyline([
+        [a.lat,a.lon], [b.lat,b.lon]
+    ],{
+        color:color,
+        weight:3,
+        opacity:0.6
+    }).addTo(map);
+    debug_layers.push(line);
+}
+
 
 //Leaflet.js part
 var map = L.map('map').setView([26.5, 74.5],6);
@@ -13,6 +41,20 @@ async function distance(a,b){
     let res = await fetch(url);
     let data = await res.json();
     return data.routes[0].distance/1000;
+}
+
+//Haversine distance.
+function haversine(a,b){
+    const R=6371;
+    let lat1 = a.lat*Math.PI/180;
+    let lat2 = b.lat*Math.PI/180;
+    let lon1 = a.lon*Math.PI/180;
+    let lon2 = b.lon*Math.PI/180;
+    let Dlat = lat2-lat1;
+    let Dlon = lon2-lon1;
+    let h = Math.sin(Dlat/2)**2 + Math.cos(lat1)*Math.cos(lat2)*(Math.sin(Dlon/2)**2);
+    let ans = R*(2*Math.asin(Math.sqrt(h)));
+    return ans;
 }
 
 //Getting coordinates of locations
@@ -32,7 +74,6 @@ async function getCoordinates(place){
     catch(error){
         console.log("The entered location doesn't exist. Try checking for spelling mistakes.");
         alert("Location doesn't exist. Try checking for spelling mistakes.");
-        return null;
     }
 }
 
@@ -131,51 +172,108 @@ async function getDistance(a,b){
 //Route Optimization Core
 //1. Checking if we can directly reach destination in one go.
 const MAX_RANGE = 400;
-async function DirectPossible(start, end, initialRange){
-    let d = await getDistance(start,end);
+async function DirectPossible(START, END, initialRange){
+    let d = await getDistance(START,END);
     let result = d<=initialRange;
     return result;
 }
 
 //2. Else we go with A_Star Algorithm.
-async function aStar(nodes, start, end, MAX_RANGE, initialRange){
+async function aStar(nodes, start, end, MAX_RANGE, initialRange, adj){
     let n=nodes.length;
     let g=new Array(n).fill(Infinity);
     let f=new Array(n).fill(Infinity);
-    let parent = new Array(n).fill(-1);
-    let visited = new Map();
+    let parent = new Array(n).fill(null);
+    let bestBattery = new Array(n).fill(0);
+    let visited = new Set();
 
     let open = new PriorityQueue();
     g[start]=0;
-    f[start]=await getDistance(start,end);
-    open.add({node: start, f:f[start]});
+    f[start]=haversine(nodes[start],nodes[end]);
+    bestBattery[start]=initialRange;
+    open.add({idx: start, f:f[start], battery: initialRange});
+    let iterations = 0;
     while(!open.isEmpty()){
-        let current = open.remove().node;
-        if(visited.has(current)) continue;
-        visited.set(current,true);
+        let {idx:current, battery}=open.remove();
+        let visitKey = `${current}-${Math.floor(battery/25)}`;
+        if(visited.has(visitKey)) continue;
+        visited.add(visitKey);
         if(current === end) break;
-        for(let i=0; i<n; i++){
-            if(i===current) continue;
-            let d = await getDistance(current, i);
-            let max_possible_range = (current===start)?initialRange:MAX_RANGE;
-            if(d>max_possible_range) continue;
-            let new_g = g[current]+d;
-            if(new_g < g[i]){
-                g[i]=new_g;
-                let h = await getDistance(i,end);
-                f[i]=g[i]+h;
-                parent[i]=current;
-                open.add({node:i, f:f[i]});
-            }
+        iterations++;
+        if(iterations>5000) {
+            console.log("Too many iterations. Stopping!");
+            return null;
         }
+        let movedfromhere = false;
+        for(let i=0; i<adj[current].length; i++){
+            let a = Math.min(current, adj[current][i]);
+            let b = Math.max(current, adj[current][i]);
+            let key=`${a}-${b}`;
+            let d=graph.distances[key];
+            if(d>battery) continue;
+            movedfromhere=true;
+            let newBattery = MAX_RANGE;
+            let new_g = g[current]+d;
+            if(new_g>=g[adj[current][i]]) continue;
+            g[adj[current][i]]=new_g;
+            bestBattery[adj[current][i]]=newBattery;
+            let a1 = Math.min(adj[current][i],end);
+            let b1 = Math.max(adj[current][i],end);
+            let key2 = `${a1}-${b1}`;
+            let h=graph.distances[key2];
+            f[adj[current][i]]=g[adj[current][i]]+h;
+            parent[adj[current][i]]={
+                node:current, battery:battery
+            };
+            open.add({idx:adj[current][i], f:f[adj[current][i]], battery: newBattery});
+        }
+        // for(let i=0; i<n; i++){
+        //     if(i===current) continue;
+        //     let d = haversine(nodes[current],nodes[i]);
+        //     if(d>MAX_RANGE) continue;
+        //     if(d>battery) continue;
+        //     if(battery < MAX_RANGE*0.3) continue;
+        //     movedfromhere=true;
+        //     let newBattery=battery-d;
+        //     if(nodes[i].isCharging) newBattery=MAX_RANGE;
+        //     let new_g = g[current]+d;
+        //     if(newBattery<=bestBattery[i] && new_g>=g[i]) {
+        //         continue;
+        //     }
+        //     g[i]=new_g;
+        //     bestBattery[i]=newBattery;
+        //     let h = haversine(nodes[i],nodes[end]);
+        //     if(newBattery<MAX_RANGE*0.5) h*=0.5;
+        //     f[i]=g[i]+h;
+        //     parent[i]={
+        //         node:current, battery:battery
+        //     };
+        //     open.add({idx:i, f:f[i], battery: newBattery});
+        // }
+        if(!movedfromhere) console.log(`deadend at ${nodes[current].town}, ${nodes[current].subtown}`);
     }
     let path=[];
     let cursor=end;
-    while(cursor!==-1){
+    let current_battery = bestBattery[end];
+    let seen = new Set();
+    while(cursor!==start){
+        let key = `${cursor}-${Math.floor(current_battery/25)}`;
+        if(seen.has(key)) {
+            alert("Cycle detected in graph. No feasible route!");
+            return null;
+        }
+        seen.add(key);
         path.push(nodes[cursor]);
-        cursor=parent[cursor];
+        if(parent[cursor]) {
+            current_battery=parent[cursor].battery;
+            cursor=parent[cursor].node;
+        }
+        else break;
     }
     path.reverse();
+    if(path.length<2) {
+        console.log(`only ${path.length} (${path[0].name}) stations possible in path. That's why youre getting battery constraints.`);
+    }
     return path;
 }
 
@@ -258,32 +356,65 @@ async function drawRoute(route, batteryPercent){
 function getTotalDistance(route) {
     let total = 0;
     for (let i = 0; i < route.length - 1; i++) {
-        total += getDistance(route[i], route[i + 1]);
+        let dist = haversine(route[i], route[i+1]);
+        total += dist;
     }
     return total;
 }
 
 //starter function.
 async function init(){
+    console.log("INIT RUNNING");
+
+    try {
+        const response = await fetch('workable_stations.json');
+        graph = await response.json();
+        console.log("Graph loaded:", graph.stats);
+    } catch (error) {
+        console.error("Failed to load stations:", error);
+        alert("Please ensure workable_stations.json is available");
+        return;
+    }
+
     let startloc = await getCoordinates(start);
     let endloc = await getCoordinates(end);
     let initialRange = MAX_RANGE*(batteryPercent/100);
+    console.log(`Current battery eq:${initialRange}, starting to filter stations.`);
+
     let route;
     if(await DirectPossible(startloc, endloc, initialRange)){
         route = [startloc, endloc];
     }
     else{
-        let AllNodes=[startloc,...stations,endloc];
-        route = await aStar(AllNodes, startloc, endloc, MAX_RANGE, initialRange);
+        console.log("Stations:", stations);
+        let AllNodes=[startloc,...graph.station.map(s => ({...s, isCharging: true})),endloc];
+        //Build adjancency list for filtered traversal according to starting battery.
+        let maxhop = Math.min(MAX_RANGE*0.8, initialRange*1.5);
+        let adj = new Array(AllNodes.length).fill(0).map(()=>[]);
+        for(let i=0; i<AllNodes.length; i++){
+            let candidates = [];
+            for(let j=0; j<graph.station.length; j++){
+                let key = `${Math.min(i,j)}-${Math.max(i,j)}`;
+                if(graph.distances[key] && graph.distances[key]<=maxhop){
+                    candidates.push(j+1);
+                }
+            }
+            adj[i]=candidates.slice(0,10);
+        }
+        console.log("finding best possible route..running our own A*");
+        route = await aStar(AllNodes, 0, AllNodes.length-1, MAX_RANGE, initialRange, adj);
+        console.log("route decided!");
     }
-    if(!route){
-        alert("No feasible route.");
+    if(!route || route.length < 2){
+        alert("No feasible route (battery constraints).");
         return;
     }
     drawRoute(route, batteryPercent);
     let totalDistance = getTotalDistance(route);
-    document.getElementById("distance").innerText = totalDistance.toFixed(2);
+    document.getElementById("distance").innerText = totalDistance;
     console.log("Loaded stations:", stations);
     console.log("Route:", route);
 }
+
+
 init();
